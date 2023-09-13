@@ -19,5 +19,5 @@ body {
 .header-link {
     display: flex;
     list-style-type: none;
-    gap: 10px;  
+    gap: 20px;  
 }
