@@ -1,0 +1,23 @@
+body {
+    font-family: 'Roboto';
+    padding: 10px;
+}
+
+.header {
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+    /* background-color: #1F2937; */
+}
+
+.header-logo {
+    /* display: block; */
+    height: 50px;
+    width: 50px;
+}
+
+.header-link {
+    display: flex;
+    list-style-type: none;
+    gap: 10px;  
+}
